@@ -1,4 +1,4 @@
-# Pixels - Smart Resolution and DPI Changer
+adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS
 
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.tribalfs.pixels)
 
